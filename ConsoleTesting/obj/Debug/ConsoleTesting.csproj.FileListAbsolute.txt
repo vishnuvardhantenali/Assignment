@@ -1,0 +1,7 @@
+C:\Users\vvardhantenali\source\repos\TeckinsoftAssignment\ConsoleTesting\bin\Debug\ConsoleTesting.exe.config
+C:\Users\vvardhantenali\source\repos\TeckinsoftAssignment\ConsoleTesting\bin\Debug\ConsoleTesting.exe
+C:\Users\vvardhantenali\source\repos\TeckinsoftAssignment\ConsoleTesting\bin\Debug\ConsoleTesting.pdb
+C:\Users\vvardhantenali\source\repos\TeckinsoftAssignment\ConsoleTesting\obj\Debug\ConsoleTesting.csproj.AssemblyReference.cache
+C:\Users\vvardhantenali\source\repos\TeckinsoftAssignment\ConsoleTesting\obj\Debug\ConsoleTesting.csproj.CoreCompileInputs.cache
+C:\Users\vvardhantenali\source\repos\TeckinsoftAssignment\ConsoleTesting\obj\Debug\ConsoleTesting.exe
+C:\Users\vvardhantenali\source\repos\TeckinsoftAssignment\ConsoleTesting\obj\Debug\ConsoleTesting.pdb
