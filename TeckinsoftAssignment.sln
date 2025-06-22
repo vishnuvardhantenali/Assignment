@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCoverageAnalyserWpf", "CodeCoverageAnalyserWpf\CodeCoverageAnalyserWpf.csproj", "{BDDB417D-E6EB-4A88-AE2C-FF984C5138B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProfitAnalyzer", "ConsoleTesting\MaxProfitAnalyzer.csproj", "{03C4FDE5-5332-4EEF-86C8-FCBF143A7B51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ComputationalGeometry", "ComputationalGeometry", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshGeneration", "MeshGeneration\MeshGeneration.csproj", "{49E892DF-38FD-4AF0-B394-A6A53CEFB127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDDB417D-E6EB-4A88-AE2C-FF984C5138B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDB417D-E6EB-4A88-AE2C-FF984C5138B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDB417D-E6EB-4A88-AE2C-FF984C5138B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDB417D-E6EB-4A88-AE2C-FF984C5138B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C4FDE5-5332-4EEF-86C8-FCBF143A7B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C4FDE5-5332-4EEF-86C8-FCBF143A7B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C4FDE5-5332-4EEF-86C8-FCBF143A7B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C4FDE5-5332-4EEF-86C8-FCBF143A7B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E892DF-38FD-4AF0-B394-A6A53CEFB127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E892DF-38FD-4AF0-B394-A6A53CEFB127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E892DF-38FD-4AF0-B394-A6A53CEFB127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E892DF-38FD-4AF0-B394-A6A53CEFB127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{49E892DF-38FD-4AF0-B394-A6A53CEFB127} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D8CEEC8-870D-406A-8E10-578F313F797F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\vvardhantenali\source\repos\TeckinsoftAssignment\ConsoleTesting\bin\Debug\ConsoleTesting.exe.config
+C:\Users\vvardhantenali\source\repos\TeckinsoftAssignment\ConsoleTesting\bin\Debug\ConsoleTesting.exe
+C:\Users\vvardhantenali\source\repos\TeckinsoftAssignment\ConsoleTesting\bin\Debug\ConsoleTesting.pdb
+C:\Users\vvardhantenali\source\repos\TeckinsoftAssignment\ConsoleTesting\obj\Debug\MaxProfitAnalyzer.csproj.AssemblyReference.cache
+C:\Users\vvardhantenali\source\repos\TeckinsoftAssignment\ConsoleTesting\obj\Debug\MaxProfitAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\vvardhantenali\source\repos\TeckinsoftAssignment\ConsoleTesting\obj\Debug\ConsoleTesting.exe
+C:\Users\vvardhantenali\source\repos\TeckinsoftAssignment\ConsoleTesting\obj\Debug\ConsoleTesting.pdb
+D:\Test\TeckinsoftAssignment\ConsoleTesting\bin\Debug\ConsoleTesting.exe.config
+D:\Test\TeckinsoftAssignment\ConsoleTesting\bin\Debug\ConsoleTesting.exe
+D:\Test\TeckinsoftAssignment\ConsoleTesting\bin\Debug\ConsoleTesting.pdb
+D:\Test\TeckinsoftAssignment\ConsoleTesting\obj\Debug\MaxProfitAnalyzer.csproj.AssemblyReference.cache
+D:\Test\TeckinsoftAssignment\ConsoleTesting\obj\Debug\MaxProfitAnalyzer.csproj.CoreCompileInputs.cache
+D:\Test\TeckinsoftAssignment\ConsoleTesting\obj\Debug\ConsoleTesting.exe
+D:\Test\TeckinsoftAssignment\ConsoleTesting\obj\Debug\ConsoleTesting.pdb
